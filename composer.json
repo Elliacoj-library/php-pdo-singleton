@@ -1,0 +1,17 @@
+{
+    "name": "amaur/php-pdo-singleton",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Amaur\\PhpPdoSingleton\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "amaury",
+            "email": "amaury.jocaille@hotmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
